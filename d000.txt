@@ -1,0 +1,8 @@
+Open the terminal and let the child try the text-to-speech. On Mac, can use "say", like
+$ say 'Hello World'
+$ say '<name of mother>'
+
+The points:
+1. Basic typing: positioning of fingers and using of shift/ctrl.
+2. Know what's single quote and how to pair the quotes.
+3. Use arrow key to navigate and edit previous commands.
