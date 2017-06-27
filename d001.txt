@@ -1,0 +1,6 @@
+# Try following in python, learn how strings are concatenated.
+print('beef' * 10)
+print('beef ' * 10)
+
+# On terminal, try:
+$ say `python -c "print ('beef ' * 10)"`
