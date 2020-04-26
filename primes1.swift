@@ -8,7 +8,7 @@ func 互质(m: Int, n: Int) -> Bool {
         return true
     }
     if m > n {
-        return 互质(m: m - m / n * n, n: n)
+        return 互质(m: m % n, n: n)
     } else {
         return 互质(m: n, n: m)
     }
