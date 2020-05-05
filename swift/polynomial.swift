@@ -1,5 +1,5 @@
 struct 多项式 {
-    let 系数: [Int]
+    let 系数: [Float]
 }
 
 
